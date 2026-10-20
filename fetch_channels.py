@@ -1,7 +1,6 @@
 import re
 import urllib.request
 
-# Güncellenecek kanallar ve resmi canlı yayın web sayfaları
 CHANNELS = [
     {
         "name": "ATV",
@@ -19,16 +18,20 @@ CHANNELS = [
 
 def get_m3u8_link(page_url):
     try:
-        req = urllib.request.Request(
-            page_url, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-        )
-        with urllib.request.urlopen(req, timeout=10) as response:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7'
+        }
+        req = urllib.request.Request(page_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as response:
             html = response.read().decode('utf-8', errors='ignore')
-            # HTML kaynak kodunda .m3u8 ile biten linki yakalar
-            match = re.search(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', html)
-            if match:
-                return match.group(1)
+            
+            # .m3u8 veya master playlist yakalama deseni
+            matches = re.findall(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', html)
+            if matches:
+                # Bulunan ilk veya en uygun m3u8 adresini döndür
+                return matches[0]
     except Exception as e:
         print(f"Hata ({page_url}): {e}")
     return None
@@ -36,12 +39,13 @@ def get_m3u8_link(page_url):
 def generate_m3u():
     m3u_content = "#EXTM3U\n"
     for ch in CHANNELS:
-        print(f"{ch['name']} için link aranıyor...")
+        print(f"{ch['name']} için link taranıyor...")
         stream_url = get_m3u8_link(ch['url'])
+        
         if stream_url:
             m3u_content += f'#EXTINF:-1 tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}\n'
             m3u_content += f'{stream_url}\n'
-            print(f"✓ {ch['name']} linki bulundu!")
+            print(f"✓ {ch['name']} linki bulundu: {stream_url}")
         else:
             print(f"✗ {ch['name']} linki bulunamadı.")
 
