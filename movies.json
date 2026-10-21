@@ -1,26 +1,26 @@
 [
   {
-    "title": "Gladiator II",
+    "title": "0",
     "genre": "Aksiyon • Tarih • Savaş",
-    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+    "image": "https://images.unsplash.com/photo-1534447677-be436bb09401",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
-    "title": "Interstellar",
+    "title": "0",
     "genre": "Bilim Kurgu • Macera",
-    "image": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86",
+    "image": "https://images.unsplash.com/photo-15067037191a0f3a48c0f86",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
   {
-    "title": "The Batman",
+    "title": "0",
     "genre": "Suç • Aksiyon • Dram",
-    "image": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2021/12/02163447/pOaKyhMwALpCTg07eQQu0SQCbL9-scaled.jpg",
+    "image": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/0/2021/12/02163447/pOaKyhMwALpCTg07eQQu0SQCbL9-scaled.jpg",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   },
   {
-    "title": "Inception",
+    "title": "0",
     "genre": "Gerilim • Bilim Kurgu",
-    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af23",
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
   }
 ]
