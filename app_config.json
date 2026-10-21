@@ -1,4 +1,12 @@
-[
-  "AZ-LUMINO-99",
-  "LUMINO-VIP-2026"
-]
+{
+  "licenses": [
+    {
+      "code": "LUM-X9K2-M8R4",
+      "expireDate": "2027-10-21"
+    },
+    {
+      "code": "LUM-H3F5-W9L2",
+      "expireDate": "2026-12-31"
+    }
+  ]
+}
