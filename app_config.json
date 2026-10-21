@@ -2,11 +2,15 @@
   "licenses": [
     {
       "code": "LUM-X9K2-M8R4",
-      "expireDate": "2027-10-21"
+      "expireDate": ""
     },
     {
       "code": "LUM-H3F5-W9L2",
-      "expireDate": "2026-12-31"
+      "expireDate": ""
+    },
+    {
+      "code": "LUM-H3F5-W9L2",
+      "expireDate": ""
     }
   ]
 }
