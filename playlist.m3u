@@ -1,1319 +1,1315 @@
 #EXTM3U
-#EXTINF:-1,[AZ] Azstar TV ()
+#EXTINF:-1,[AZ] Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1,[AZ] APA Tv ()
-http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1,[AZ] EL TV (260p) [Not 24/7]
+#EXTINF:-1,[AZ] EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,[AZ] Ayaz TV ()
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1,[AZ] APA Tv
+http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1,[AZ] Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1,[AZ] Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,[AZ] Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,[AZ] KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[TR] 4U TV ()
+#EXTINF:-1,[TR] 4U TV
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1,[AZ] Vilayet TV
-https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1,[TR] ARAS TV (576p) [Not 24/7]
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1,[TR] Al-Zahra TV Turkic () [Not 24/7]
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1,[TR] 360 TV () [Not 24/7]
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,[TR] Almahriah TV (576p)
-https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1,[AZ] Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1,[TR] ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1,[TR] 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,[TR] Al - Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1,[TR] Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1,[TR] Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1,[TR] A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1,[TR] A2TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1,[TR] A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1,[AZ] Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[TR] A Haber ()
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1,[TR] Alanya Posta TV ()
-https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1,[TR] A Spor ()
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1,[TR] A2TV ()
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1,[TR] Aksu TV ()
-https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1,[TR] Bloomberg HT () [Not 24/7]
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:-1,[TR] ATV Alanya ()
+#EXTINF:-1,[TR] ATV Alanya
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
-#EXTINF:-1,[TR] BENGÜTÜRK TV () [Not 24/7]
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1,[TR] Anadolu Net TV ()
+#EXTINF:-1,[TR] Bloomberg HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1,[TR] Anadolu Net TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1,[TR] DHA () [Not 24/7]
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1,[TR] Edessa TV ()
-https://canli.edessatv.com/hls/stream.m3u8
-#EXTINF:-1,[TR] Bursa AS TV (900p)
-https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:-1,[TR] Dost TV (576p)
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:-1,[TR] CNBC-e
-https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1,[TR] Diyanet TV ()
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:-1,[TR] Deniz Postası TV () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1,[TR] Çiftçi TV () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1,[TR] Diyar TV ()
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:-1,[TR] Finans Turk TV ()
-https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1,[TR] Dream Türk ()
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1,[TR] BRTV () [Geo-blocked]
+#EXTINF:-1,[TR] Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1,[TR] BENGÜTÜRK TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1,[TR] BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
-#EXTINF:-1,[TR] ATV (360p)
+#EXTINF:-1,[TR] Bursa AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1,[TR] ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1,[TR] Erzurum Web TV ()
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
-#EXTINF:-1,[TR] Er TV () [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
-#EXTINF:-1,[TR] Habertürk TV () [Not 24/7]
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1,[TR] Haber Global () [Not 24/7]
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1,[TR] Fortuna TV ()
-https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
-#EXTINF:-1,[TR] Euro D ()
+#EXTINF:-1,[AZ] Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1,[TR] Edessa TV
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1,[TR] DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1,[TR] Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1,[TR] CNBC - e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1,[TR] Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1,[TR] Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1,[TR] Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1,[TR] Finans Turk TV
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1,[TR] Dream Türk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,[TR] Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1,[TR] FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1,[TR] Haber61 TV () [Not 24/7]
+#EXTINF:-1,[TR] Haber61 TV
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1,[TR] Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1,[TR] Fortuna TV
+https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1,[TR] Haber61 TV
+https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1,[TR] Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1,[TR] Er TV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1,[TR] ES TV
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1,[TR] ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 #EXTINF:-1,[TR] Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
-#EXTINF:-1,[TR] ES TV ()
-https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
-#EXTINF:-1,[TR] ETV Kayseri ()
-https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
-#EXTINF:-1,[TR] Halk TV ()
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1,[TR] Ilke TV ()
+#EXTINF:-1,[TR] Habertürk TV
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1,[TR] Ilke TV
 https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
-#EXTINF:-1,[TR] Kanal 7 () [Not 24/7]
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1,[TR] Kanal 7 Avrupa () [Not 24/7]
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1,[TR] HTSpor TV ()
+#EXTINF:-1,[TR] Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1,[TR] HTSpor TV
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1,[TR] Haber61 TV () [Not 24/7]
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:-1,[TR] Kanal 23 ()
-https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
-#EXTINF:-1,[TR] Kanal D Drama ()
-http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
-#EXTINF:-1,[TR] Kanal D ()
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1,[TR] Kanal D Drama ()
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1,[TR] Kanal 12 ()
-https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
-#EXTINF:-1,[TR] Kanal 3 () [Not 24/7]
+#EXTINF:-1,[TR] Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1,[TR] Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,[TR] Kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
-#EXTINF:-1,[TR] KANAL 58 () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
-#EXTINF:-1,[TR] Kanal 15 () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:-1,[TR] Kanal 26 () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
-#EXTINF:-1,[TR] Hunat TV () [Geo-blocked]
+#EXTINF:-1,[TR] Kanal 23
+https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+#EXTINF:-1,[TR] Hunat TV
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
-#EXTINF:-1,[TR] Kanal 23 () [Not 24/7]
+#EXTINF:-1,[TR] Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1,[TR] Kanal 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1,[TR] Kanal D Drama
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+#EXTINF:-1,[TR] ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1,[TR] Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1,[TR] Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1,[TR] Kanal 23
 https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
-#EXTINF:-1,[TR] Kanal Firat () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
-#EXTINF:-1,[TR] Med Muzik ()
-http://54.36.110.140/live3/live3.m3u8
-#EXTINF:-1,[TR] Lalegul TV ()
+#EXTINF:-1,[TR] Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1,[TR] Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1,[TR] Kocaeli TV ()
+#EXTINF:-1,[TR] Kocaeli TV
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
-#EXTINF:-1,[TR] KRAL Pop TV ()
+#EXTINF:-1,[TR] KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1,[TR] Mekameleen TV ()
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1,[TR] Konya Olay TV ()
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
-#EXTINF:-1,[TR] Kay TV (576p) [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
-#EXTINF:-1,[TR] Kanal V () [Not 24/7]
+#EXTINF:-1,[TR] Kanal V
 https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
-#EXTINF:-1,[TR] Kent Türk TV () [Not 24/7]
+#EXTINF:-1,[TR] Kanal Firat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1,[TR] KANAL 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1,[TR] Kent Türk TV
 https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
-#EXTINF:-1,[TR] Luys TV ()
+#EXTINF:-1,[TR] Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1,[TR] Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1,[TR] Konya Olay TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1,[TR] Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1,[TR] Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1,[TR] Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1,[TR] MaviKaradeniz () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1,[TR] Life TV () [Not 24/7]
+#EXTINF:-1,[TR] Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1,[TR] Mercan TV (576p) [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
-#EXTINF:-1,[TR] Minika Go (576p)
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1,[TR] Minika Cocuk (576p)
+#EXTINF:-1,[TR] MaviKaradeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1,[TR] Minika Cocuk
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1,[TR] Meltem TV ()
+#EXTINF:-1,[TR] Minika Go
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1,[TR] Mercan TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1,[TR] Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1,[TR] Minika Cocuk ()
+#EXTINF:-1,[TR] Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1,[TR] Minika Go ()
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1,[TR] Number 1 Damar ()
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1,[TR] Number 1 TV ()
+#EXTINF:-1,[TR] Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1,[TR] Number 1 Ask ()
+#EXTINF:-1,[TR] Number 1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1,[TR] Number 1 Dance ()
+#EXTINF:-1,[TR] Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1,[TR] Number 1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1,[TR] NOW TV ()
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1,[TR] Olay Türk TV Kayseri () [Geo-blocked]
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1,[TR] NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
-#EXTINF:-1,[TR] Satranç TV (480p) [Not 24/7]
+#EXTINF:-1,[TR] NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1,[TR] Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1,[TR] Olay Türk TV Kayseri
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1,[TR] Satranç TV
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1,[TR] Power TV ()
-https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
-#EXTINF:-1,[TR] Power Love ()
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1,[TR] PowerTürk TV ()
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1,[TR] Power Türk Slow ()
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1,[TR] Power Türk Akustik ()
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1,[TR] Power Turk () [Not 24/7]
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1,[TR] Power Dance ()
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1,[TR] Sat7 Türk ()
+#EXTINF:-1,[TR] Sat7 Türk
 https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
-#EXTINF:-1,[TR] Sercem TV ()
-https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1,[TR] Semerkand TV () [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
-#EXTINF:-1,[TR] TGRT Haber ()
-https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1,[TR] Star TV ()
+#EXTINF:-1,[TR] Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1,[TR] TGRT Belgesel TV (576p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1,[TR] Sun RTV () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1,[TR] Sat7 Türk ()
-https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
-#EXTINF:-1,[TR] Tele 1 ()
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1,[TR] TBMM TV ()
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1,[TR] TGRT Haber (360p) [Not 24/7]
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1,[TR] TR24 TV () [Not 24/7]
-https://tv.ensonhaber.com/tv24/tv24.m3u8
-#EXTINF:-1,[TR] Power Türk Taptaze ()
+#EXTINF:-1,[TR] Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1,[TR] PowerTürk TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1,[TR] Power TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
+#EXTINF:-1,[TR] Power Türk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1,[TR] Power TV ()
+#EXTINF:-1,[TR] Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1,[TR] Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1,[TR] Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1,[TR] Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1,[TR] Tempo TV ()
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1,[TR] Tivi 6 ()
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1,[TR] TJK TV ()
+#EXTINF:-1,[TR] Power Turk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1,[TR] Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1,[TR] Sat7 Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1,[TR] TGRT Haber
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1,[TR] Sun RTV
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1,[TR] Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1,[TR] TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1,[TR] TR24 TV
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+#EXTINF:-1,[TR] TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1,[TR] TGRT Belgesel TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1,[TR] TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1,[TR] Ton TV () [Not 24/7]
+#EXTINF:-1,[TR] Ton TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-#EXTINF:-1,[TR] TRT 2 (1440p) [Geo-blocked]
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT EBA Lise ()
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT 3 ()
-https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Arabi () [Not 24/7]
+#EXTINF:-1,[TR] Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1,[TR] Tempo TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1,[TR] Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1,[TR] TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT 1 (1440p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Avaz ()
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Haber ()
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT EBA Ilkokul ()
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Türk ()
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT EBA Ortaokul ()
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Müzik ()
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Diyanet Çocuk ()
+#EXTINF:-1,[TR] TRT 3
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TV 24 ()
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1,[TR] TRT Kurdî ()
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TV4 ()
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1,[TR] TRT World () [Not 24/7]
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[TR] TRT Spor Yildiz (1440p) [Geo-blocked]
+#EXTINF:-1,[TR] TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT EBA Ilkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT Spor Yildiz
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
-#EXTINF:-1,[TR] TV 8 ()
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1,[TR] TRT Muzik
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[TR] TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1,[TR] TV 8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1,[TR] TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1,[TR] TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[TR] TV 41
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:-1,[TR] TV 264
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1,[TR] Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1,[TR] Vav TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1,[TR] TV 41 () [Not 24/7]
-https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
-#EXTINF:-1,[TR] TV 264 ()
-https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
-#EXTINF:-1,[TR] Zarok TV ()
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1,[TR] Urfa Natik TV ()
+#EXTINF:-1,[TR] Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1,[TR] Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
-#EXTINF:-1,[TR] TV Den (576p) [Not 24/7]
+#EXTINF:-1,[TR] TV Den
 http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1,[TR] Ekoturk ()
+#EXTINF:-1,[TR] Ekoturk
 https://cdn.ekoturk.net/hls/master.m3u8
-#EXTINF:-1,[TR] TRT Genc (1440p) [Geo-blocked]
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,[RU] 2x2 (576p)
-http://stream.mcquack.net/187/index.m3u8
-#EXTINF:-1,[TR] TRT World ()
+#EXTINF:-1,[TR] TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
-#EXTINF:-1,[TR] Bloomberg HT ()
-https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
-#EXTINF:-1,[RU] 2x2 (576i)
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1,[RU] 360° ()
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1,[RU] 365 days TV (576p)
-http://stream.mcquack.net/70/index.m3u8
-#EXTINF:-1,[RU] .black (576p)
-http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1,[RU] .red (576p)
-http://stream.mcquack.net/69/index.m3u8
-#EXTINF:-1,[RU] .sci-fi (576p)
-http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1,[RU] Amedia Hit ()
-http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1,[RU] 360° (576p) [Geo-blocked]
-https://streaming.thestream.cyou/live/7000.m3u8
-#EXTINF:-1,[RU] ART (576p)
-http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1,[RU] Ani (576p)
-http://stream.mcquack.net/306/index.m3u8
 #EXTINF:-1,[TR] Bloomberg HT
 http://193.123.61.120:3000/kanal/bloomberght
-#EXTINF:-1,[RU] Avto24 (576p)
+#EXTINF:-1,[TR] Bloomberg HT
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
+#EXTINF:-1,[TR] TRT Genc
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,[RU] 2x2
+http://stream.mcquack.net/187/index.m3u8
+#EXTINF:-1,[RU] 365 days TV
+http://stream.mcquack.net/70/index.m3u8
+#EXTINF:-1,[RU] .black
+http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1,[RU] .red
+http://stream.mcquack.net/69/index.m3u8
+#EXTINF:-1,[RU] .sci - fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1,[RU] 360°
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1,[RU] 360°
+https://streaming.thestream.cyou/live/7000.m3u8
+#EXTINF:-1,[RU] ART
+http://89.104.114.24:8080/art/index.m3u8
+#EXTINF:-1,[RU] 2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+#EXTINF:-1,[RU] Ani
+http://stream.mcquack.net/306/index.m3u8
+#EXTINF:-1,[RU] Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1,[RU] Avto24
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1,[RU] 5 minut tishiny ()
-https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
-#EXTINF:-1,[RU] Blokbaster ()
+#EXTINF:-1,[RU] Blokbaster
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1,[RU] Boks TV (576p)
+#EXTINF:-1,[RU] Boks TV
 http://stream.mcquack.net/154/index.m3u8
-#EXTINF:-1,[RU] BRIDGE (576p)
+#EXTINF:-1,[RU] BRIDGE
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1,[RU] BRIDGE Classic (576p)
+#EXTINF:-1,[RU] BRIDGE Classic
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1,[RU] Balabol ()
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1,[RU] BRIDGE Deluxe (576p)
+#EXTINF:-1,[RU] BRIDGE Deluxe
 http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1,[RU] BRIDGE Hits
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1,[RU] Auto Plus
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] BRIDGE Hits (576p)
-http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1,[RU] Soyuzny (576p)
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
-#EXTINF:-1,[RU] Carousel ()
+#EXTINF:-1,[RU] Balabol
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+#EXTINF:-1,[RU] Carousel
 http://185.37.150.46/Karusel/index.m3u8
-#EXTINF:-1,[RU] Carousel (576p)
+#EXTINF:-1,[RU] 5 minut tishiny
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1,[RU] Carousel
 http://stream.mcquack.net/120/index.m3u8
-#EXTINF:-1,[RU] Channel 5 International (576p)
+#EXTINF:-1,[RU] Channel 5 International
 http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:-1,[RU] Channel 8 (576p)
+#EXTINF:-1,[RU] Channel 8
 http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1,[RU] Channel One
+http://45.153.24.78/1TV/index.m3u8
+#EXTINF:-1,[RU] Channel One
+http://178.217.49.7/1/index.m3u8
+#EXTINF:-1,[RU] Channel 10
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
+#EXTINF:-1,[RU] Channel 8
+http://tshift-1.telecoma.tv/8channel/index.m3u8
+#EXTINF:-1,[RU] Channel 8
+https://v4.proofix.ru/8tv-russia/index.m3u8
 #EXTINF:-1,[RU] 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
-#EXTINF:-1,[RU] Channel One (576p)
-http://45.153.24.78/1TV/index.m3u8
-#EXTINF:-1,[RU] Channel One (576p)
-http://178.217.49.7/1/index.m3u8
-#EXTINF:-1,[RU] Channel 10 (576i)
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
-#EXTINF:-1,[RU] Channel 8 (576p)
-https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:-1,[RU] Classic Music ()
-http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1,[RU] Carousel (576p)
+#EXTINF:-1,[RU] Carousel
 https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
-#EXTINF:-1,[RU] Channel 8 (576p)
-http://tshift-1.telecoma.tv/8channel/index.m3u8
-#EXTINF:-1,[RU] Da Vinci (576p)
+#EXTINF:-1,[RU] Classic Music
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1,[RU] Da Vinci
 http://stream.mcquack.net/238/index.m3u8
-#EXTINF:-1,[RU] Dikaya okhota ()
+#EXTINF:-1,[RU] Dikaya okhota
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1,[RU] Dikaya rybalka ()
+#EXTINF:-1,[RU] Channel One
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Dikaya rybalka
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1,[RU] Doctor (576p)
+#EXTINF:-1,[RU] Doctor
 http://178.134.1.158:8081/doktor/index.m3u8
-#EXTINF:-1,[RU] Dom kino (576p)
+#EXTINF:-1,[RU] DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1,[RU] Dom kino
 http://stream.mcquack.net/236/index.m3u8
+#EXTINF:-1,[RU] Dom kino Premium
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1,[RU] Domashniy
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1,[RU] Doctor
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[RU] Da Vinci
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[RU] Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Dom kino Premium ()
-http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1,[RU] Channel One ()
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,[RU] Domashniy (576p)
-http://stream.mcquack.net/227/index.m3u8
-#EXTINF:-1,[RU] Dushevnoe ()
-http://stream.mcquack.net/213/index.m3u8
-#EXTINF:-1,[RU] Europa Plus TV (576p)
-http://stream.mcquack.net/184/index.m3u8
-#EXTINF:-1,[RU] Evrokino ()
-http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1,[RU] FAN (576p)
-http://stream.mcquack.net/420/index.m3u8
-#EXTINF:-1,[RU] Fashion&LifeStyle ()
-http://stream.mcquack.net/119/index.m3u8
-#EXTINF:-1,[RU] FoodTime ()
-http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1,[RU] Doctor (576i)
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Fon Music (576p)
-http://stream.mcquack.net/317/index.m3u8
-#EXTINF:-1,[RU] Dorama
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[RU] Dom kino
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Drive (576i)
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Fox (576p)
-http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1,[RU] Fox Life (576p)
-http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1,[RU] Friday! (576p)
-http://stream.mcquack.net/181/index.m3u8
-#EXTINF:-1,[RU] Gulli Girl (576p)
-http://stream.mcquack.net/305/index.m3u8
-#EXTINF:-1,[RU] Enisey (576p)
+#EXTINF:-1,[RU] Dushevnoe
+http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1,[RU] Europa Plus TV
+http://stream.mcquack.net/184/index.m3u8
+#EXTINF:-1,[RU] Evrokino
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1,[RU] FAN
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1,[RU] Fashion&LifeStyle
+http://stream.mcquack.net/119/index.m3u8
+#EXTINF:-1,[RU] Fon Music
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1,[RU] FoodTime
+http://stream.mcquack.net/216/index.m3u8
+#EXTINF:-1,[RU] Enisey
 http://tshift-1.telecoma.tv/enisei/index.m3u8
-#EXTINF:-1,[RU] Hit ()
+#EXTINF:-1,[RU] Fox
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1,[RU] Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Fox Life
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1,[RU] Drive
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Friday!
+http://stream.mcquack.net/181/index.m3u8
+#EXTINF:-1,[RU] Gulli Girl
+http://stream.mcquack.net/305/index.m3u8
+#EXTINF:-1,[RU] Hit
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1,[RU] Indiyskoye Kino (576p)
+#EXTINF:-1,[RU] Indiyskoye Kino
 http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1,[RU] Indiyskoye Kino (576p)
+#EXTINF:-1,[RU] Indiyskoye Kino
 http://188.113.190.12/329/index.m3u8
-#EXTINF:-1,[RU] Insayt TV ()
-http://stream.mcquack.net/361/index.m3u8
-#EXTINF:-1,[RU] Horoshee Kino ()
-https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1,[RU] Gulli Girl ()
+#EXTINF:-1,[RU] Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Insayt TV (2160p)
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Glazami Turista
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Insayt TV
+http://stream.mcquack.net/361/index.m3u8
 #EXTINF:-1,[RU] Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Kapitan Fantastika ()
+#EXTINF:-1,[RU] Kapitan Fantastika
 http://stream.mcquack.net/144/index.m3u8
-#EXTINF:-1,[RU] Glazami Turista (576i)
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Istoki ()
-https://istoki.tv/live/stream1/playlist.m3u8
-#EXTINF:-1,[RU] KHL (576p)
-http://stream.mcquack.net/166/index.m3u8
-#EXTINF:-1,[RU] KHL Prime ()
+#EXTINF:-1,[RU] KHL Prime
 http://stream.mcquack.net/178/index.m3u8
-#EXTINF:-1,[RU] KinoHit (576p)
-http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1,[RU] Kino TV (576p)
-http://stream.mcquack.net/221/index.m3u8
-#EXTINF:-1,[RU] Kinokomedija (576p)
-http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1,[RU] Kino TV ()
+#EXTINF:-1,[RU] KHL
+http://stream.mcquack.net/166/index.m3u8
+#EXTINF:-1,[RU] Istoki
+https://istoki.tv/live/stream1/playlist.m3u8
+#EXTINF:-1,[RU] Insayt TV
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Kino TV
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1,[RU] Kinomix (576p)
+#EXTINF:-1,[RU] KinoHit
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1,[RU] Kino TV
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1,[RU] Kinomix
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1,[RU] Kinomix (576p)
+#EXTINF:-1,[RU] Kinokomedija
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1,[RU] Kinomix
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1,[RU] Kinopokaz (576p)
+#EXTINF:-1,[RU] Kinopokaz
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1,[RU] Kinopremyera ()
+#EXTINF:-1,[RU] Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1,[RU] Horoshee Kino
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1,[RU] Kinosemja
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1,[RU] Kinosvidanie
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1,[RU] KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Kinosemja (576p)
-http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1,[RU] Kinosvidanie (576p)
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1,[RU] Kinosvidanie (576p)
+#EXTINF:-1,[RU] Kinosvidanie
 http://stream.mcquack.net/171/index.m3u8
-#EXTINF:-1,[RU] Kinouzhas (576p)
+#EXTINF:-1,[RU] Kinouzhas
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1,[RU] Kinopokaz
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Komedia (576p)
+#EXTINF:-1,[RU] Komedia
 http://stream.mcquack.net/68/index.m3u8
-#EXTINF:-1,[RU] Komediynoe ()
+#EXTINF:-1,[RU] Komediynoe
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1,[RU] Kuhnya (576p)
+#EXTINF:-1,[RU] Kuhnya
 http://stream.mcquack.net/179/index.m3u8
-#EXTINF:-1,[RU] KVN TV (576p)
+#EXTINF:-1,[RU] KVN TV
 http://178.124.179.122:8080/KVN-TV/index.m3u8
-#EXTINF:-1,[RU] Kulinar TV (576p)
-https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1,[RU] Groznyj
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
-#EXTINF:-1,[RU] Kinopremyera
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Kulinar TV
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1,[RU] Kongress TV
+https://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1,[RU] Kinopokaz
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[RU] Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Mama (576p)
+#EXTINF:-1,[RU] Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Mama
 http://stream.mcquack.net/79/index.m3u8
-#EXTINF:-1,[RU] Match! Arena (576p)
+#EXTINF:-1,[RU] Match! Arena
 http://stream.mcquack.net/163/index.m3u8
-#EXTINF:-1,[RU] Match! Boets (576p)
+#EXTINF:-1,[RU] Match! Boets
 http://stream.mcquack.net/112/index.m3u8
-#EXTINF:-1,[RU] Match! Igra (576p)
-http://stream.mcquack.net/188/index.m3u8
-#EXTINF:-1,[RU] Kongress TV ()
-https://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1,[RU] Match! Strana (576p)
+#EXTINF:-1,[RU] Match! Strana
 http://stream.mcquack.net/143/index.m3u8
-#EXTINF:-1,[RU] Match! Ultra ()
+#EXTINF:-1,[RU] Match! Igra
+http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1,[RU] Match! Ultra
 http://stream.mcquack.net/169/index.m3u8
-#EXTINF:-1,[RU] Kongress TV ()
-https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
-#EXTINF:-1,[RU] Mir (576p)
+#EXTINF:-1,[RU] Maidan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1,[RU] Mir
 http://45.153.24.78/MIR/index.m3u8
-#EXTINF:-1,[RU] Mir 24 (576p)
+#EXTINF:-1,[RU] Mir 24
 http://5.188.159.128:8070/mir_24/index.m3u8
+#EXTINF:-1,[RU] Mosfilm Gold Collection
+http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1,[RU] Mir
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Maidan ()
-https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:-1,[RU] Mosfilm Gold Collection (576p)
-http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1,[RU] Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,[RU] Moskva 24
+https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
+#EXTINF:-1,[RU] Moskva 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1,[RU] Moskva 24
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:-1,[RU] Kongress TV
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+#EXTINF:-1,[RU] Mir Kazakhstan
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1,[RU] Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Moskva 24 ()
-https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
-#EXTINF:-1,[RU] MMA-TV.com
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Mir Kazakhstan (576p)
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1,[RU] Moskva 24 ()
-https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
-#EXTINF:-1,[RU] Mir () [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1,[RU] Moskva. Doveriye (576p)
-https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1,[RU] Moskva 24 (576p)
-https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
-#EXTINF:-1,[RU] Moya Planeta (576p)
+#EXTINF:-1,[RU] Moya Planeta
 http://stream.mcquack.net/124/index.m3u8
-#EXTINF:-1,[RU] Moya stikhiya ()
+#EXTINF:-1,[RU] MMA - TV.com
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Moya stikhiya
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1,[RU] Mult (576p)
+#EXTINF:-1,[RU] Moy mir
+https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1,[RU] Mult
 http://stream.mcquack.net/232/index.m3u8
-#EXTINF:-1,[RU] Mult i muzyka (576p)
+#EXTINF:-1,[RU] Moskva. Doveriye
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1,[RU] Mult i muzyka
 http://stream.mcquack.net/82/index.m3u8
-#EXTINF:-1,[RU] Muz-TV (576p)
+#EXTINF:-1,[RU] Muz - TV
 http://stream.mcquack.net/86/index.m3u8
-#EXTINF:-1,[RU] Muzhskoe kino (576p)
+#EXTINF:-1,[RU] Muzhskoe kino
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1,[RU] Muzyka Live (576p)
+#EXTINF:-1,[RU] Muzyka Live
 http://stream.mcquack.net/303/index.m3u8
-#EXTINF:-1,[RU] Muzyka Pervogo (576p)
+#EXTINF:-1,[RU] Muzyka Pervogo
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1,[RU] Multilandia
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Nano (576p)
+#EXTINF:-1,[RU] Nano
 http://stream.mcquack.net/419/index.m3u8
-#EXTINF:-1,[RU] Nashe (576p)
+#EXTINF:-1,[RU] Nashe
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1,[RU] Nashe muzhskoe ()
+#EXTINF:-1,[RU] Nashe muzhskoe
 http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1,[RU] National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1,[RU] Nauka
+http://stream.mcquack.net/125/index.m3u8
 #EXTINF:-1,[RU] Muzyka Pervogo
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] National Geographic (576p)
-http://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1,[RU] Muz-TV
+#EXTINF:-1,[RU] Muz - TV
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Nauka (576p)
-http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1,[RU] Nick Jr. (576p)
+#EXTINF:-1,[RU] Nick Jr.
 http://stream.mcquack.net/220/index.m3u8
-#EXTINF:-1,[RU] Nickelodeon (576p)
-http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1,[RU] Nevskiy ()
-https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
-#EXTINF:-1,[RU] NST (576p)
-http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1,[RU] Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Nicktoons CIS ()
-https://stream8.cinerama.uz/1502/playlist.m3u8
-#EXTINF:-1,[RU] Nick Jr. (576p)
+#EXTINF:-1,[RU] Nickelodeon
+http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1,[RU] Nevskiy
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1,[RU] NST
+http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1,[RU] Nick Jr.
 https://stream8.cinerama.uz/1501/playlist.m3u8
+#EXTINF:-1,[RU] NTV Mir
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+#EXTINF:-1,[RU] NTV Series
+http://stream.mcquack.net/301/index.m3u8
+#EXTINF:-1,[RU] NTV
+https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1,[RU] Nicktoons CIS
+https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1,[RU] NTV
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] NTV ()
-https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1,[RU] NTV ()
+#EXTINF:-1,[RU] NTV
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
-#EXTINF:-1,[RU] NTV Mir (576p)
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
-#EXTINF:-1,[RU] NTV Series (576p)
-http://stream.mcquack.net/301/index.m3u8
-#EXTINF:-1,[RU] O! (576p)
+#EXTINF:-1,[RU] O!
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1,[RU] NST (576p)
+#EXTINF:-1,[RU] NST
 https://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1,[RU] Ohotnik i rybolov ()
-http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1,[RU] Okhota i rybalka (576p)
+#EXTINF:-1,[RU] Okhota i rybalka
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1,[RU] Okko Futbol (576p)
+#EXTINF:-1,[RU] Ohotnik i rybolov
+http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1,[RU] Okko Futbol
 http://178.124.179.122:8080/Setanta1/index.m3u8
-#EXTINF:-1,[RU] Ostrosyuzhetnoye ()
+#EXTINF:-1,[RU] Ostrosyuzhetnoye
 http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1,[RU] Moy mir ()
-https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1,[RU] Peretz International (576p)
-http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1,[RU] Premialnoe ()
-http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1,[RU] Priklyucheniya ()
-http://stream.mcquack.net/198/index.m3u8
-#EXTINF:-1,[RU] Ohotnik i rybolov (576i)
+#EXTINF:-1,[RU] Ohotnik i rybolov
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Pes ()
-https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1,[RU] Okhota i rybalka
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] NTV Vitrina ()
-https://cdn.ntv.ru/vitrina/index.m3u8
-#EXTINF:-1,[RU] NTV (576p)
-https://cdn.ntv.ru/ntv-spb/index.m3u8
-#EXTINF:-1,[RU] Perviy otdel ()
+#EXTINF:-1,[RU] Peretz International
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1,[RU] Perviy otdel
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1,[RU] Radio Rossii ()
-https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
-#EXTINF:-1,[RU] Retro (576p)
-http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1,[RU] Radio 1 () [Geo-blocked]
-https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
-#EXTINF:-1,[RU] Prodvizhenie ()
-https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
-#EXTINF:-1,[RU] Prodvizhenie (576p)
+#EXTINF:-1,[RU] Premialnoe
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1,[RU] Priklyucheniya
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1,[RU] NTV
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1,[RU] NTV Vitrina
+https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1,[RU] Pes
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1,[RU] Prodvizhenie
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
-#EXTINF:-1,[RU] Prosveshchenie (576p)
+#EXTINF:-1,[RU] Prosveshchenie
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
-#EXTINF:-1,[RU] Rodnoe Kino (576p)
-http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1,[RU] Pro Business ()
+#EXTINF:-1,[RU] Radio 1
+https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
+#EXTINF:-1,[RU] Retro
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1,[RU] Pro Business
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
-#EXTINF:-1,[RU] RT ()
+#EXTINF:-1,[RU] Radio Rossii
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
+#EXTINF:-1,[RU] Prodvizhenie
+https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
+#EXTINF:-1,[RU] RT
 http://212.5.144.156:8080/rt/index.m3u8
-#EXTINF:-1,[RU] RT en Espanol (576p)
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:-1,[RU] RTG TV ()
-http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1,[RU] RT ()
-https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 #EXTINF:-1,[RU] Rodnoe Kino
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/242/index.m3u8
+#EXTINF:-1,[RU] RT en Espanol
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1,[RU] Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] RU.TV ()
+#EXTINF:-1,[RU] RTG TV
+http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1,[RU] Rodnoe Kino
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] RT
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1,[RU] RU.TV
+http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1,[RU] Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1,[RU] RT en Espanol
+https://streaming.thestream.cyou/live/46.m3u8
+#EXTINF:-1,[RU] RU.TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1,[RU] Russia - 1
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1,[RU] RU.TV
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] RU.TV (576p)
-http://stream.mcquack.net/109/index.m3u8
-#EXTINF:-1,[RU] Radost Moya (576p)
-https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1,[RU] Russia-1 ()
-https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1,[RU] Russia-1 (576p)
-http://109.207.243.18/2/index.m3u8
-#EXTINF:-1,[RU] RT Balkan ()
-https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
-#EXTINF:-1,[RU] Russia-K (576p)
-http://stream.mcquack.net/229/index.m3u8
-#EXTINF:-1,[RU] RT en Espanol ()
-https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
-#EXTINF:-1,[RU] Russia-24 ()
-https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
-#EXTINF:-1,[RU] RT en Espanol (576p)
-https://streaming.thestream.cyou/live/46.m3u8
-#EXTINF:-1,[RU] RT Balkan ()
-https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
-#EXTINF:-1,[RU] Russian MusicBox (576p)
-http://stream.mcquack.net/319/index.m3u8
-#EXTINF:-1,[RU] Russkiy Bestseller (576p)
-http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1,[RU] Russkiy Detektiv (576p)
-http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1,[RU] Russia-K ()
-https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
-#EXTINF:-1,[RU] Russkiy roman (576p)
-http://stream.mcquack.net/266/index.m3u8
-#EXTINF:-1,[RU] Rybolov (576p)
-http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1,[RU] Sarafan (576p)
-http://stream.mcquack.net/81/index.m3u8
-#EXTINF:-1,[RU] Russia-1
+#EXTINF:-1,[RU] Russia - 1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Shokiruyushchee ()
-http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1,[RU] Russia-24
+#EXTINF:-1,[RU] Russia - 1
+http://109.207.243.18/2/index.m3u8
+#EXTINF:-1,[RU] Russia - K
+http://stream.mcquack.net/229/index.m3u8
+#EXTINF:-1,[RU] Russian MusicBox
+http://stream.mcquack.net/319/index.m3u8
+#EXTINF:-1,[RU] Russkiy Bestseller
+http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1,[RU] Russkiy Detektiv
+http://stream.mcquack.net/204/index.m3u8
+#EXTINF:-1,[RU] RT Balkan
+https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
+#EXTINF:-1,[RU] Russkiy roman
+http://stream.mcquack.net/266/index.m3u8
+#EXTINF:-1,[RU] RT en Espanol
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
+#EXTINF:-1,[RU] RT Balkan
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
+#EXTINF:-1,[RU] Russia - 24
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+#EXTINF:-1,[RU] Russia - K
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+#EXTINF:-1,[RU] Rybolov
+http://stream.mcquack.net/264/index.m3u8
+#EXTINF:-1,[RU] Russia - 24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Sankt-Peterburg ()
+#EXTINF:-1,[RU] Sarafan
+http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1,[RU] Sankt - Peterburg
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1,[RU] Shef ()
+#EXTINF:-1,[RU] Shokiruyushchee
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1,[RU] Shef
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
-#EXTINF:-1,[RU] Ryzhiy (576i)
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Shopping Live ()
-https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
-#EXTINF:-1,[RU] Shanson TV (576p)
-http://catchup.videoline.ru/shanson/index.m3u8
-#EXTINF:-1,[RU] Shopping Live (576p) [Not 24/7]
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1,[RU] Skoraya pomoshch ()
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
-#EXTINF:-1,[RU] Smotrim 100% Lyubov ()
-https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
-#EXTINF:-1,[RU] Smotrim 100% Muzhskoe ()
-https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
-#EXTINF:-1,[RU] Smotrim 100% Klassika ()
-https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
-#EXTINF:-1,[RU] Solnce (576p)
-http://stream.mcquack.net/118/index.m3u8
-#EXTINF:-1,[RU] Russkiy roman (576p)
-https://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1,[RU] Sochi Live () [Not 24/7]
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1,[RU] Smile TV ()
-https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1,[RU] Solnce (576p)
-http://217.114.191.150/Solnce/index.m3u8
-#EXTINF:-1,[RU] Soyuzny (480p)
-http://178.124.179.122:8080/TRO/index.m3u8
-#EXTINF:-1,[RU] Shanson TV (576p) [Geo-blocked]
+#EXTINF:-1,[RU] Shanson TV
 https://streaming.thestream.cyou/live/7009.m3u8
-#EXTINF:-1,[RU] START Air (576p)
-http://stream.mcquack.net/128/index.m3u8
-#EXTINF:-1,[RU] Solovyov Live ()
+#EXTINF:-1,[RU] Shanson TV
+http://catchup.videoline.ru/shanson/index.m3u8
+#EXTINF:-1,[RU] Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+#EXTINF:-1,[RU] Shopping Live
+https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
+#EXTINF:-1,[RU] Skoraya pomoshch
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:-1,[RU] Ryzhiy
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Sochi Live
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1,[RU] Solnce
+http://stream.mcquack.net/118/index.m3u8
+#EXTINF:-1,[RU] Solnce
+http://217.114.191.150/Solnce/index.m3u8
+#EXTINF:-1,[RU] Smotrim 100% Muzhskoe
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1,[RU] Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1,[RU] Soyuzny
+http://178.124.179.122:8080/TRO/index.m3u8
+#EXTINF:-1,[RU] Smotrim 100% Lyubov
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1,[RU] Smile TV
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1,[RU] Solovyov Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-#EXTINF:-1,[RU] STS ()
+#EXTINF:-1,[RU] STS
 http://stream.mcquack.net/138/index.m3u8
-#EXTINF:-1,[RU] STS International (576p)
+#EXTINF:-1,[RU] START Air
+http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1,[RU] STS International
 http://178.134.1.158:8081/CTC/index.m3u8
-#EXTINF:-1,[RU] STS kids (576p)
-http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1,[RU] Star Family ()
+#EXTINF:-1,[RU] Russkiy roman
+https://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1,[RU] Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1,[RU] Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
-#EXTINF:-1,[RU] STS Love (576p)
+#EXTINF:-1,[RU] STS kids
+http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1,[RU] STS Love
 http://stream.mcquack.net/183/index.m3u8
-#EXTINF:-1,[RU] Subbota! ()
-http://stream.mcquack.net/269/index.m3u8
-#EXTINF:-1,[RU] SuperGeroi (576p)
-http://109.94.1.3:8080/132/index.m3u8
-#EXTINF:-1,[RU] Solnce (576p)
+#EXTINF:-1,[RU] Solnce
 https://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1,[RU] Sportivnyy ()
+#EXTINF:-1,[RU] Sportivnyy
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1,[RU] Svoboda
 http://88.212.15.17/live/svoboda/index.m3u8
-#EXTINF:-1,[RU] STS (576p)
-http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1,[RU] SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:-1,[RU] Spas (576p)
-https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1,[RU] T24 (576p)
+#EXTINF:-1,[RU] Subbota!
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1,[RU] SuperGeroi
+http://109.94.1.3:8080/132/index.m3u8
+#EXTINF:-1,[RU] Subbota!
+http://217.114.191.150/Subbota/index.m3u8
+#EXTINF:-1,[RU] STS
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1,[RU] T24
 http://stream.mcquack.net/209/index.m3u8
-#EXTINF:-1,[RU] T24 (576p)
-http://178.134.1.158:8081/t24/index.m3u8
-#EXTINF:-1,[RU] Subbota! ()
+#EXTINF:-1,[RU] Subbota!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
-#EXTINF:-1,[RU] TiJi (576p)
+#EXTINF:-1,[RU] TiJi
 http://stream.mcquack.net/111/index.m3u8
-#EXTINF:-1,[RU] TNT (576p)
+#EXTINF:-1,[RU] TNT
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1,[RU] T24
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Tooku ()
-http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1,[RU] Tochka RF ()
-http://stream.mcquack.net/161/index.m3u8
-#EXTINF:-1,[RU] TeleDom
-https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
-#EXTINF:-1,[RU] TV 21 International (576p)
-http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1,[RU] Subbota! (576p)
-http://217.114.191.150/Subbota/index.m3u8
 #EXTINF:-1,[RU] Telecafe
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] TiJi (576p)
+#EXTINF:-1,[RU] TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] TNV-Planet
+#EXTINF:-1,[RU] Spas
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1,[RU] TeleDom
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1,[RU] Tochka RF
+http://stream.mcquack.net/161/index.m3u8
+#EXTINF:-1,[RU] TNV - Tatarstan
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1,[RU] TNV - Planet
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] TV-3 (576p)
+#EXTINF:-1,[RU] TV 21 International
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1,[RU] Tooku
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1,[RU] T24
+http://178.134.1.158:8081/t24/index.m3u8
+#EXTINF:-1,[RU] TV - 3
 http://178.124.179.122:8080/TB-3/index.m3u8
-#EXTINF:-1,[RU] UDAR ()
-http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1,[RU] U (576p)
-http://stream.mcquack.net/230/index.m3u8
-#EXTINF:-1,[RU] U (576p)
+#EXTINF:-1,[RU] Tsargrad TV
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+#EXTINF:-1,[RU] U
 http://178.134.1.158:8081/U/index.m3u8
+#EXTINF:-1,[RU] U
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+#EXTINF:-1,[RU] UDAR
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1,[RU] U
+http://stream.mcquack.net/230/index.m3u8
 #EXTINF:-1,[RU] TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,[RU] TNV-Tatarstan ()
-https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
-#EXTINF:-1,[RU] V gostyakh u skazki (576p)
-http://stream.mcquack.net/93/index.m3u8
-#EXTINF:-1,[RU] Usadba (576p)
+#EXTINF:-1,[RU] Usadba
 http://stream.mcquack.net/211/index.m3u8
-#EXTINF:-1,[RU] V mire zhivotnykh ()
+#EXTINF:-1,[RU] V gostyakh u skazki
+http://stream.mcquack.net/93/index.m3u8
+#EXTINF:-1,[RU] V mire zhivotnykh
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1,[RU] Detskiy (576p)
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] U ()
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1,[RU] viju Explore (576p)
-http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1,[RU] viju History (576p)
+#EXTINF:-1,[RU] viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1,[RU] viju History (576p)
+#EXTINF:-1,[RU] viju Explore
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1,[RU] viju History
 http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1,[RU] Vesti FM ()
+#EXTINF:-1,[RU] Vesti FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
-#EXTINF:-1,[RU] viju TV1000 (576p)
+#EXTINF:-1,[RU] Detskiy
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] viju TV1000
 http://stream.mcquack.net/110/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 action (576p)
+#EXTINF:-1,[RU] viju TV1000 action
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1,[RU] viju+ Comedy ()
+#EXTINF:-1,[RU] viju+ Comedy
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1,[RU] viju+ Megahit ()
+#EXTINF:-1,[RU] viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1,[RU] viju+ Planet ()
+#EXTINF:-1,[RU] viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1,[RU] viju+ Premiere ()
+#EXTINF:-1,[RU] viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1,[RU] viju+ Serial ()
+#EXTINF:-1,[RU] viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1,[RU] Tsargrad TV () [Geo-blocked]
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
-#EXTINF:-1,[RU] viju+ Sport (576p)
-http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1,[RU] Univer TV () [Not 24/7]
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1,[RU] Univer TV ()
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1,[RU] Vkus (576p)
-http://178.134.1.158:8081/vkus/index.m3u8
-#EXTINF:-1,[RU] Vremya (576p)
-http://stream.mcquack.net/237/index.m3u8
-#EXTINF:-1,[RU] Voprosy i Otvety (576p)
-http://stream.mcquack.net/76/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 russkoe
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[RU] viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] viju TV1000 russkoe
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1,[RU] viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Zagorodnaya Zhizn (576p)
+#EXTINF:-1,[RU] viju TV1000 russkoe
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] viju TV1000 russkoe
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Vkus
+http://178.134.1.158:8081/vkus/index.m3u8
+#EXTINF:-1,[RU] Voprosy i Otvety
+http://stream.mcquack.net/76/index.m3u8
+#EXTINF:-1,[RU] Vremya
+http://stream.mcquack.net/237/index.m3u8
+#EXTINF:-1,[RU] Zagorodnaya Zhizn
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1,[RU] viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Zhara (576p)
+#EXTINF:-1,[RU] Univer TV
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1,[RU] Univer TV
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1,[RU] Zhara
 http://stream.mcquack.net/386/index.m3u8
-#EXTINF:-1,[RU] Zhivaya priroda ()
+#EXTINF:-1,[RU] Zhivaya priroda
 http://stream.mcquack.net/83/index.m3u8
-#EXTINF:-1,[RU] Zhivaya priroda ()
+#EXTINF:-1,[RU] Zhivaya priroda
 http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1,[RU] Vitrina TV ()
+#EXTINF:-1,[RU] Vitrina TV
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
-#EXTINF:-1,[RU] Vmeste-RF (576p) [Geo-blocked]
-https://streaming.thestream.cyou/live/7006.m3u8
 #EXTINF:-1,[RU] Zagorodnaya Zhizn
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Zoopark (576i)
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Арис 24 () [Not 24/7]
+#EXTINF:-1,[RU] Vmeste - RF
+https://streaming.thestream.cyou/live/7006.m3u8
+#EXTINF:-1,[RU] Арис 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1,[RU] Zoopark
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[RU] Zvezda
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Аист ТВ ()
+#EXTINF:-1,[RU] Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1,[RU] Астрахань 24 ()
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1,[RU] Астрахань.Ru Sport ()
+#EXTINF:-1,[RU] Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1,[RU] Астрахань.Ru TV (480p)
-https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1,[RU] Известия ()
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1,[RU] Большая Азия ()
+#EXTINF:-1,[RU] Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1,[RU] К16 (Саров) (406p) [Not 24/7]
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1,[RU] Волга ()
+#EXTINF:-1,[RU] Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
+#EXTINF:-1,[RU] Волга
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1,[RU] Ветта 24 (Пермь) (576p) [Not 24/7]
+#EXTINF:-1,[RU] Ветта 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1,[RU] ЛДПР ТВ ()
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1,[RU] ЛДПР ТВ ()
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1,[RU] ЛДПР ТВ (480p)
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1,[RU] Губерния (Самара) (576p)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1,[RU] Красная линия (480p)
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1,[RU] Красная линия (288p)
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
-#EXTINF:-1,[RU] Енисей () [Not 24/7]
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1,[RU] Белгород 24 ()
+#EXTINF:-1,[RU] Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1,[RU] Надежда ()
-https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,[RU] Мир 24 ()
+#EXTINF:-1,[RU] Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+#EXTINF:-1,[RU] Губерния
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1,[RU] К16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1,[RU] ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1,[RU] ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1,[RU] ЛДПР ТВ
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1,[RU] Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1,[RU] Енисей
+https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1,[RU] Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8
+#EXTINF:-1,[RU] Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1,[RU] Надежда
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1,[RU] Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,[RU] Мир Белогорья () [Geo-blocked]
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1,[RU] КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1,[RU] Надежда ()
-https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,[RU] Муз союз (576p)
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1,[RU] Ника ТВ (576p) [Not 24/7]
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1,[RU] Мир Белагорья () [Geo-blocked]
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1,[RU] НВК Саха () [Not 24/7]
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1,[RU] НТС (Севастополь) () [Not 24/7]
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1,[RU] Евразия (Орск) ()
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1,[RU] Наука
-https://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1,[RU] Открытый мир. Здоровье (576p)
-https://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1,[RU] Нижний Новгород 24 () [Not 24/7]
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1,[RU] БСТ 24 (Братск)
-http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1,[RU] НТМ (Народное телевидение Мордовии) () [Not 24/7]
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,[RU] Прима ()
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1,[RU] МТВ (Волгоград) () [Not 24/7]
+#EXTINF:-1,[RU] Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,[RU] МТВ
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1,[RU] Евразия
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1,[RU] Муз союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1,[RU] Мир Белагорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,[RU] Надежда
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1,[RU] Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1,[RU] НТМ
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1,[RU] НТС
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1,[RU] НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1,[RU] Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:-1,[RU] Открытый мир. Здоровье
+https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1,[RU] Прима
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
+#EXTINF:-1,[RU] БСТ 24
+http://bst.bratsk.ru/hls/bst2/index.m3u8
 #EXTINF:-1,[RU] ОСН
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1,[RU] Zvezda () [Not 24/7]
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1,[RU] Север (Нарьян-Мар)
+#EXTINF:-1,[RU] Наука
+https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1,[RU] Север
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1,[RU] Сочи 24 ()
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1,[RU] Самара ГИС () [Not 24/7]
-https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Солнце (576p)
+#EXTINF:-1,[RU] Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1,[RU] Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
-#EXTINF:-1,[RU] Союз (576p)
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1,[RU] С1 (Сургут) () [Not 24/7]
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1,[RU] РБК (СПБ) (576p)
+#EXTINF:-1,[RU] Нано ТВ
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1,[RU] РБК
 https://online-video.rbc.ru/spb/rbctv_spb.m3u8
-#EXTINF:-1,[RU] Твое TV ()
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1,[RU] Твое ТВ Юмор ()
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1,[RU] Страна FM () [Not 24/7]
+#EXTINF:-1,[RU] Союз
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,[RU] Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1,[RU] Самара ГИС
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,[RU] Телерадиокомпания 555 (Алушта) ()
-http://trk555.tv:8888/live
+#EXTINF:-1,[RU] Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1,[RU] Твое TV
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1,[RU] ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
-#EXTINF:-1,[RU] Телплюс ТВ (Астрахань) (360p) [Not 24/7]
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1,[RU] Duma TV ()
-http://185.23.80.23:8080/DumaTV/index.m3u8
-#EXTINF:-1,[RU] Unknown Russia ()
-http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
-#EXTINF:-1,[RU] Радио Шансон () [Not 24/7]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1,[RU] Тамыр (Уфа)
-https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1,[RU] ТКР (Рязань) () [Not 24/7]
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1,[RU] Nano ()
-http://185.23.80.23:8080/NANO_HD/index.m3u8
-#EXTINF:-1,[RU] Толк ()
+#EXTINF:-1,[RU] Телерадиокомпания 555
+http://trk555.tv:8888/live
+#EXTINF:-1,[RU] Толк
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1,[RU] Пятница! (576p)
-https://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1,[RU] РБК-ТВ
-http://online-video.rbc.ru/online2/rbctv.m3u8
-#EXTINF:-1,[RU] Хузур ТВ () [Not 24/7]
+#EXTINF:-1,[RU] Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1,[RU] TV BRICS Russian ()
-http://185.23.80.23:8080/TVBRICS/index.m3u8
-#EXTINF:-1,[RU] Ювелирочка ТВ (576p)
-https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1,[RU] 2x2 (576p)
-http://185.23.80.23:8080/2x2/index.m3u8
-#EXTINF:-1,[RU] ART (576p)
-http://185.23.80.23:8080/ART/index.m3u8
-#EXTINF:-1,[RU] REN TV (576p)
-http://185.23.80.23:8080/REN/index.m3u8
-#EXTINF:-1,[RU] Три Ангела ()
-https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1,[RU] 2x2 (576p)
+#EXTINF:-1,[RU] Duma TV
+http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1,[RU] Телплюс ТВ
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1,[RU] Unknown Russia
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+#EXTINF:-1,[RU] ТКР
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1,[RU] 2x2
 http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
-#EXTINF:-1,[RU] BRIDGE (576p)
+#EXTINF:-1,[RU] Nano
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1,[RU] Ювелирочка ТВ
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1,[RU] РБК - ТВ
+http://online-video.rbc.ru/online2/rbctv.m3u8
+#EXTINF:-1,[RU] TV BRICS Russian
+http://185.23.80.23:8080/TVBRICS/index.m3u8
+#EXTINF:-1,[RU] 2x2
+http://185.23.80.23:8080/2x2/index.m3u8
+#EXTINF:-1,[RU] ART
+http://185.23.80.23:8080/ART/index.m3u8
+#EXTINF:-1,[RU] REN TV
+http://185.23.80.23:8080/REN/index.m3u8
+#EXTINF:-1,[RU] Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1,[RU] BRIDGE
 http://178.134.1.158:8081/BRIDGE/index.m3u8
-#EXTINF:-1,[RU] REN TV International (576p)
-http://178.134.1.158:8081/RENTV/index.m3u8
-#EXTINF:-1,[RU] BRIDGE Rock (576p)
+#EXTINF:-1,[RU] BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1,[RU] NTV-Hit (576p)
+#EXTINF:-1,[RU] REN TV International
+http://178.134.1.158:8081/RENTV/index.m3u8
+#EXTINF:-1,[RU] NTV - Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
-#EXTINF:-1,[RU] Baby Time (576p)
+#EXTINF:-1,[RU] Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1,[RU] Baby Time
 http://178.134.1.158:8081/babytime/index.m3u8
-#EXTINF:-1,[RU] .red ()
+#EXTINF:-1,[RU] .red
 http://178.134.1.158:8081/red/index.m3u8
-#EXTINF:-1,[RU] Щёлковское ТВ (576p) [Not 24/7]
-http://stream0.tv41.ru/live.m3u8
-#EXTINF:-1,[RU] TV 21 (576p)
+#EXTINF:-1,[RU] TV 21
 http://178.134.1.158:8081/TVXXI/index.m3u8
-#EXTINF:-1,[RU] Нано ТВ (576p)
-http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1,[RU] Tonus (576p)
+#EXTINF:-1,[RU] Tonus
 http://194.143.148.28:8080/Mir24/index.m3u8
-#EXTINF:-1,[RU] AIST TV (576p)
+#EXTINF:-1,[RU] AIST TV
 http://194.143.148.28:8080/Aist/index.m3u8
-#EXTINF:-1,[RU] BRIDGE (576p)
+#EXTINF:-1,[RU] Щёлковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1,[RU] BRIDGE
 http://194.143.148.28:8080/RT_DOC/index.m3u8
-#EXTINF:-1,[RU] NTV ()
-http://flussonic.linkintel.ru/ntv/index.m3u8
-#EXTINF:-1,[RU] Friday! (576p)
+#EXTINF:-1,[RU] С1
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1,[RU] Friday!
 http://flussonic.linkintel.ru/Pyatnica/index.m3u8
-#EXTINF:-1,[RU] REN TV (576p)
+#EXTINF:-1,[RU] NTV
+http://flussonic.linkintel.ru/ntv/index.m3u8
+#EXTINF:-1,[RU] REN TV
 http://flussonic.linkintel.ru/ren_tv/index.m3u8
-#EXTINF:-1,[RU] TV-3 (576p)
+#EXTINF:-1,[RU] TV - 3
 http://flussonic.linkintel.ru/tv-3/index.m3u8
-#EXTINF:-1,[RU] Mult (576p)
+#EXTINF:-1,[RU] Mult
 http://flussonic.linkintel.ru/Mult/index.m3u8
-#EXTINF:-1,[RU] Carousel (576p)
-http://flussonic.linkintel.ru/Karusel/index.m3u8
-#EXTINF:-1,[RU] TV Centr (576p)
-http://flussonic.linkintel.ru/tvc/index.m3u8
-#EXTINF:-1,[RU] STS (576p)
-http://flussonic.linkintel.ru/sts/index.m3u8
-#EXTINF:-1,[RU] OTR (576p)
-http://flussonic.linkintel.ru/otr/index.m3u8
-#EXTINF:-1,[RU] Amedia Hit (576p)
-http://flussonic.linkintel.ru/amedia-hit/index.m3u8
-#EXTINF:-1,[RU] TNT4 (576p)
-http://flussonic.linkintel.ru/tnt4/index.m3u8
-#EXTINF:-1,[RU] Zvezda (576p)
-http://flussonic.linkintel.ru/zvezda/index.m3u8
-#EXTINF:-1,[RU] TNT (576p)
+#EXTINF:-1,[RU] TNT
 http://flussonic.linkintel.ru/tnt/index.m3u8
-#EXTINF:-1,[RU] Che! (576p)
+#EXTINF:-1,[RU] TV Centr
+http://flussonic.linkintel.ru/tvc/index.m3u8
+#EXTINF:-1,[RU] Che!
 http://flussonic.linkintel.ru/che/index.m3u8
-#EXTINF:-1,[RU] Телеканал 86 (Сургут) () [Not 24/7]
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1,[RU] Muzyka Pervogo (576p)
-http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
-#EXTINF:-1,[RU] TV-3 ()
-http://stream.mcquack.net/136/index.m3u8
-#EXTINF:-1,[RU] TNT4 (576p)
-http://stream.mcquack.net/106/index.m3u8
-#EXTINF:-1,[RU] Cinema (576p)
-http://flussonic.linkintel.ru/cinema/index.m3u8
-#EXTINF:-1,[RU] Match! Ultra (576p)
-http://flussonic.linkintel.ru/match/index.m3u8
-#EXTINF:-1,[RU] Mama (576p)
-http://flussonic.linkintel.ru/mama/index.m3u8
-#EXTINF:-1,[RU] Kino TV (576p)
+#EXTINF:-1,[RU] STS
+http://flussonic.linkintel.ru/sts/index.m3u8
+#EXTINF:-1,[RU] Carousel
+http://flussonic.linkintel.ru/Karusel/index.m3u8
+#EXTINF:-1,[RU] Zvezda
+http://flussonic.linkintel.ru/zvezda/index.m3u8
+#EXTINF:-1,[RU] TNT4
+http://flussonic.linkintel.ru/tnt4/index.m3u8
+#EXTINF:-1,[RU] OTR
+http://flussonic.linkintel.ru/otr/index.m3u8
+#EXTINF:-1,[RU] Kino TV
 http://flussonic.linkintel.ru/kino-tv/index.m3u8
-#EXTINF:-1,[RU] Telecafe (576p)
+#EXTINF:-1,[RU] Amedia Hit
+http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+#EXTINF:-1,[RU] Cinema
+http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1,[RU] Muzyka Pervogo
+http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
+#EXTINF:-1,[RU] TNT4
+http://stream.mcquack.net/106/index.m3u8
+#EXTINF:-1,[RU] TV - 3
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:-1,[RU] Match! Ultra
+http://flussonic.linkintel.ru/match/index.m3u8
+#EXTINF:-1,[RU] Telecafe
 http://stream.mcquack.net/314/index.m3u8
-#EXTINF:-1,[RU] Doctor (576p)
+#EXTINF:-1,[RU] Mama
+http://flussonic.linkintel.ru/mama/index.m3u8
+#EXTINF:-1,[RU] Doctor
 http://stream.mcquack.net/80/index.m3u8
-#EXTINF:-1,[RU] Travel+Adventure ()
+#EXTINF:-1,[RU] Travel+Adventure
 http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1,[RU] UDAR ()
-http://stream.mcquack.net/279/index.m3u8
-#EXTINF:-1,[RU] BRIDGE Hits (576p)
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1,[RU] BRIDGE Classic (576p)
+#EXTINF:-1,[RU] BRIDGE Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1,[RU] FON Music (576p)
+#EXTINF:-1,[RU] UDAR
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1,[RU] BRIDGE Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1,[RU] FON Music
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] V gostyakh u skazki ()
-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] 1HD Music Television ()
-https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Mult (576p)
+#EXTINF:-1,[RU] Mult
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Arsenal (576p)
-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Mama (576p)
+#EXTINF:-1,[RU] Mama
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Kapitan Fantastika (576p)
-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] 365 days TV (576p)
+#EXTINF:-1,[RU] 1HD Music Television
+https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] 365 days TV
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Smile TV ()
-https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Zhivaya Planeta (576p)
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Zdorovoe TV (576p)
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Usadba (576p)
-https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Tochka otryva (576p)
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Kuhnya (576p)
-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Russia-K (576p)
-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Priklyucheniya (576p)
-https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] TV Centr (576p)
+#EXTINF:-1,[RU] Arsenal
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Kapitan Fantastika
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] TV Centr
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Domashnie Zhivotnye (576p)
+#EXTINF:-1,[RU] Kuhnya
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Smile TV
+https://stream8.cinerama.uz/1425/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] V gostyakh u skazki
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Zdorovoe TV
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Tochka otryva
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Domashnie Zhivotnye
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Dikij (576p)
+#EXTINF:-1,[RU] Usadba
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,[RU] Zhivaya Planeta
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Russia - K
+https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Priklyucheniya
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] Dikij
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Kinoseriya (576p)
+#EXTINF:-1,[RU] Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1,[RU] TV Centr (576p)
+#EXTINF:-1,[RU] TV Centr
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
-#EXTINF:-1,[RU] KVN TV (576p)
+#EXTINF:-1,[RU] KVN TV
 https://fs.uplink.kz/kvn_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1,[RU] Dorama (576p)
+#EXTINF:-1,[RU] Dorama
 https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
-#EXTINF:-1,[RU] Baby Time (576p)
+#EXTINF:-1,[RU] Baby Time
 https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
-#EXTINF:-1,[RU] Match! Ultra (576p)
+#EXTINF:-1,[RU] Match! Ultra
 http://45.132.87.69:8080/match/index.m3u8
-#EXTINF:-1,[RU] Match! Ultra (576p)
-http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1,[RU] Russia-1 ()
-https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1,[RU] Russia-24 ()
+#EXTINF:-1,[RU] Russia - 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1,[RU] START Air ()
-http://176.118.197.101/START_AIR/index.m3u8
-#EXTINF:-1,[RU] TV-3 (576p)
-http://176.118.197.101/TB3/index.m3u8
-#EXTINF:-1,[RU] Bollywood (576p)
+#EXTINF:-1,[RU] Russia - 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1,[RU] Match! Ultra
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1,[RU] Bollywood
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1,[RU] TNT (576p)
-http://176.118.197.101/THT/index.m3u8
-#EXTINF:-1,[RU] TV Centr International (576p)
-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[RU] Russia-K ()
+#EXTINF:-1,[RU] TV - 3
+http://176.118.197.101/TB3/index.m3u8
+#EXTINF:-1,[RU] START Air
+http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1,[RU] Russia - K
 https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1,[RU] Che! (576p)
-http://176.118.197.101/Che/index.m3u8
-#EXTINF:-1,[RU] 1HD Music Television ()
-http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1,[RU] Komedia (576p)
-http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1,[RU] KHL (576p)
-http://176.118.197.101/KHL/index.m3u8
-#EXTINF:-1,[RU] RBK-TV (576p)
-http://176.118.197.101/RBK/index.m3u8
-#EXTINF:-1,[RU] FashionTV ()
+#EXTINF:-1,[RU] TNT
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1,[RU] TV Centr International
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[RU] FashionTV
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-#EXTINF:-1,[RU] STS (576p)
+#EXTINF:-1,[RU] Che!
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1,[RU] 1HD Music Television
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1,[RU] Komedia
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1,[RU] KHL
+http://176.118.197.101/KHL/index.m3u8
+#EXTINF:-1,[RU] RBK - TV
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1,[RU] STS
 http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1,[RU] NTV (576p)
+#EXTINF:-1,[RU] NTV
 http://176.118.197.101/NTV/index.m3u8
-#EXTINF:-1,[RU] 2x2 (576p)
+#EXTINF:-1,[RU] 2x2
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1,[RU] Evrokino (576p)
+#EXTINF:-1,[RU] Evrokino
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1,[RU] Mir Seriala (576p)
-http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1,[RU] Russia-24 (576p)
+#EXTINF:-1,[RU] Russia - 24
 http://176.118.197.101/Rossiya24/index.m3u8
-#EXTINF:-1,[RU] Carousel (576p)
-http://88.212.15.17/live/test_karusel/playlist.m3u8
-#EXTINF:-1,[RU] Russia-1 ()
+#EXTINF:-1,[RU] Mir Seriala
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1,[RU] Russia - 1
 http://176.118.197.101/RossiyaHD/index.m3u8
-#EXTINF:-1,[RU] Vremya (576p)
-http://88.212.15.17/live/test_vremya/playlist.m3u8
-#EXTINF:-1,[RU] Dom kino (576p)
-http://88.212.15.17/live/test_dom_kino/playlist.m3u8
-#EXTINF:-1,[RU] Nostalgia (576p)
-http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1,[RU] Retro (576p)
+#EXTINF:-1,[RU] Retro
 http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1,[RU] Illusion+ (576p)
-http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1,[RU] Dom kino Premium (576p)
+#EXTINF:-1,[RU] Carousel
+http://88.212.15.17/live/test_karusel/playlist.m3u8
+#EXTINF:-1,[RU] Vremya
+http://88.212.15.17/live/test_vremya/playlist.m3u8
+#EXTINF:-1,[RU] Dom kino
+http://88.212.15.17/live/test_dom_kino/playlist.m3u8
+#EXTINF:-1,[RU] Dom kino Premium
 http://88.212.15.17/live/test_dom_kino_premium/playlist.m3u8
-#EXTINF:-1,[RU] Bober (576p)
-http://88.212.15.17/live/test_bober/playlist.m3u8
-#EXTINF:-1,[RU] Telecafe (576p)
+#EXTINF:-1,[RU] Nostalgia
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1,[RU] Telecafe
 http://88.212.15.17/live/test_telecafe_tv/playlist.m3u8
-#EXTINF:-1,[RU] Poehali! (576p)
+#EXTINF:-1,[RU] Poehali!
 http://88.212.15.17/live/test_poehali/playlist.m3u8
-#EXTINF:-1,[RU] Novorossiya TV () [Geo-blocked]
+#EXTINF:-1,[RU] Bober
+http://88.212.15.17/live/test_bober/playlist.m3u8
+#EXTINF:-1,[RU] Illusion+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1,[RU] Novorossiya TV
 http://31.131.139.253:9002/novoros/index.m3u8
-#EXTINF:-1,[RU] Oplot TV () [Geo-blocked]
+#EXTINF:-1,[RU] Oplot TV
 http://31.131.139.253:9002/oplot_hd/index.m3u8
-#EXTINF:-1,[RU] 6 TV Gorlovka () [Geo-blocked]
-http://91.214.48.158:4022/udp/224.2.2.4:10000
-#EXTINF:-1,[RU] Yalta TV (480p) [Geo-blocked]
-http://195.26.83.96:7029/play/a006
-#EXTINF:-1,[RU] Russia-24
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
-#EXTINF:-1,[RU] Oplot TV () [Geo-blocked]
-http://31.131.141.195:8000/play/a006/index.m3u8
-#EXTINF:-1,[RU] RT en Espanol ()
+#EXTINF:-1,[RU] RT en Espanol
 http://168.196.127.137:6001/play/a0a9/index.m3u8
-#EXTINF:-1,[RU] TNT International Belarus ()
+#EXTINF:-1,[RU] 6 TV Gorlovka
+http://91.214.48.158:4022/udp/224.2.2.4:10000
+#EXTINF:-1,[RU] Russia - 24
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+#EXTINF:-1,[RU] Yalta TV
+http://195.26.83.96:7029/play/a006
+#EXTINF:-1,[RU] Oplot TV
+http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1,[RU] TNT International Belarus
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
-#EXTINF:-1,[RU] Russia-1 (576p)
+#EXTINF:-1,[RU] Kuban 24
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1,[RU] Russia - 1
 http://31.148.5.241/kanal_2/index.m3u8
-#EXTINF:-1,[RU] Match! Ultra ()
+#EXTINF:-1,[RU] Match! Ultra
 http://31.148.5.241/kanal_3/index.m3u8
-#EXTINF:-1,[RU] Channel 5 (576p)
-http://31.148.5.241/kanal_5/index.m3u8
-#EXTINF:-1,[RU] NTV (576p)
+#EXTINF:-1,[RU] NTV
 http://31.148.5.241/kanal_4/index.m3u8
-#EXTINF:-1,[RU] Russia-24 (576p)
-http://31.148.5.241/kanal_7/index.m3u8
-#EXTINF:-1,[RU] OTR (576p)
-http://31.148.5.241/kanal_9/index.m3u8
-#EXTINF:-1,[RU] Channel One Europa (480p)
+#EXTINF:-1,[RU] Channel 5
+http://31.148.5.241/kanal_5/index.m3u8
+#EXTINF:-1,[RU] Russia - K
+http://31.148.5.241/kanal_6/index.m3u8
+#EXTINF:-1,[RU] Channel One Europa
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1,[RU] REN TV (576p)
-http://31.148.5.241/kanal_11/index.m3u8
-#EXTINF:-1,[RU] TV Centr (576p)
-http://31.148.5.241/kanal_10/index.m3u8
-#EXTINF:-1,[RU] Spas (576p)
-http://31.148.5.241/kanal_12/index.m3u8
-#EXTINF:-1,[RU] Domashniy (576p)
-http://31.148.5.241/kanal_14/index.m3u8
-#EXTINF:-1,[RU] Zvezda (576p)
-http://31.148.5.241/kanal_17/index.m3u8
-#EXTINF:-1,[RU] TV-3 (576p)
-http://31.148.5.241/kanal_15/index.m3u8
-#EXTINF:-1,[RU] STS (576p)
-http://31.148.5.241/kanal_13/index.m3u8
-#EXTINF:-1,[RU] Friday! (576p)
-http://31.148.5.241/kanal_16/index.m3u8
-#EXTINF:-1,[RU] Mir (576p)
-http://31.148.5.241/kanal_18/index.m3u8
-#EXTINF:-1,[RU] Russian Extreme Ultra (1440p)
-http://46.53.200.153:7777/play/test_krask1/index.m3u8
-#EXTINF:-1,[RU] viju Explore (576p)
-http://46.53.200.153:7777/play/a01i/index.m3u8
-#EXTINF:-1,[RU] viju Nature (576p)
-http://46.53.200.153:7777/play/a01k/index.m3u8
-#EXTINF:-1,[RU] TNT (576p)
-http://31.148.5.241/kanal_19/index.m3u8
-#EXTINF:-1,[RU] Muz-TV (576p)
-http://31.148.5.241/kanal_20/index.m3u8
-#EXTINF:-1,[RU] TV 21 International (576p)
-http://46.53.200.153:7777/play/TV-21M/index.m3u8
-#EXTINF:-1,[RU] viju History (576p)
-http://46.53.200.153:7777/play/a01j/index.m3u8
-#EXTINF:-1,[RU] viju+ Sport (576p)
-http://31.148.5.241/Viasat_Sport/index.m3u8
-#EXTINF:-1,[RU] Rus (576p)
-http://31.148.5.241/kanal_21/index.m3u8
+#EXTINF:-1,[RU] Russia - 24
+http://31.148.5.241/kanal_7/index.m3u8
 #EXTINF:-1,[RU] 360°
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1,[RU] RTG TV ()
+#EXTINF:-1,[RU] Carousel
+http://31.148.5.241/kanal_8/index.m3u8
+#EXTINF:-1,[RU] OTR
+http://31.148.5.241/kanal_9/index.m3u8
+#EXTINF:-1,[RU] REN TV
+http://31.148.5.241/kanal_11/index.m3u8
+#EXTINF:-1,[RU] STS
+http://31.148.5.241/kanal_13/index.m3u8
+#EXTINF:-1,[RU] Spas
+http://31.148.5.241/kanal_12/index.m3u8
+#EXTINF:-1,[RU] TV Centr
+http://31.148.5.241/kanal_10/index.m3u8
+#EXTINF:-1,[RU] Domashniy
+http://31.148.5.241/kanal_14/index.m3u8
+#EXTINF:-1,[RU] TV - 3
+http://31.148.5.241/kanal_15/index.m3u8
+#EXTINF:-1,[RU] Friday!
+http://31.148.5.241/kanal_16/index.m3u8
+#EXTINF:-1,[RU] Zvezda
+http://31.148.5.241/kanal_17/index.m3u8
+#EXTINF:-1,[RU] Mir
+http://31.148.5.241/kanal_18/index.m3u8
+#EXTINF:-1,[RU] Russian Extreme Ultra
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
+#EXTINF:-1,[RU] viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1,[RU] Muz - TV
+http://31.148.5.241/kanal_20/index.m3u8
+#EXTINF:-1,[RU] viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1,[RU] viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1,[RU] TV 21 International
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1,[RU] RTG TV
 http://46.53.200.153:7777/play/a00u/index.m3u8
-#EXTINF:-1,[RU] Nash Kinopokaz (576p)
+#EXTINF:-1,[RU] Nash Kinopokaz
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
-#EXTINF:-1,[RU] viju+ Serial ()
-http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
-#EXTINF:-1,[RU] viju+ Premiere ()
-http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
-#EXTINF:-1,[RU] viju+ Megahit ()
-http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
-#EXTINF:-1,[RU] Shanson TV (576p)
-http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
-#EXTINF:-1,[RU] viju+ Comedy ()
+#EXTINF:-1,[RU] Rus
+http://31.148.5.241/kanal_21/index.m3u8
+#EXTINF:-1,[RU] viju+ Sport
+http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1,[RU] viju+ Comedy
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
-#EXTINF:-1,[RU] Europa Plus TV Belarus (576p)
+#EXTINF:-1,[RU] viju+ Megahit
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1,[RU] viju+ Serial
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+#EXTINF:-1,[RU] viju+ Premiere
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1,[RU] Shanson TV
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1,[RU] Europa Plus TV Belarus
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
-#EXTINF:-1,[RU] viju+ Sport (576p)
-http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
-#EXTINF:-1,[RU] Live Music Channel ()
+#EXTINF:-1,[RU] Live Music Channel
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
-#EXTINF:-1,[RU] viju+ Sport ()
+#EXTINF:-1,[RU] viju+ Sport
 http://46.53.200.153:7777/play/a01l/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 novella ()
-http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 romantica ()
-http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 (576p)
+#EXTINF:-1,[RU] viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 action (576p)
-http://46.53.200.153:7777/play/a01h/index.m3u8
-#EXTINF:-1,[RU] viju TV1000 russkoe (576p)
+#EXTINF:-1,[RU] viju+ Sport
+http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
+#EXTINF:-1,[RU] viju TV1000 romantica
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1,[RU] viju TV1000 novella
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1,[RU] viju TV1000 russkoe
 http://46.53.200.153:7777/play/a01g/index.m3u8
-#EXTINF:-1,[RU] VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
-#EXTINF:-1,[RU] Discovery Channel ()
+#EXTINF:-1,[RU] viju TV1000 action
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1,[RU] Discovery Channel
 http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1,[RU] O! International ()
-http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
-#EXTINF:-1,[RU] TLC ()
-http://stream.mcquack.net/168/index.m3u8
-#EXTINF:-1,[RU] Investigation Discovery ()
+#EXTINF:-1,[RU] Investigation Discovery
 http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1,[RU] Travel Channel ()
-http://stream.mcquack.net/231/index.m3u8
-#EXTINF:-1,[RU] Animal Planet ()
+#EXTINF:-1,[RU] TLC
+http://stream.mcquack.net/168/index.m3u8
+#EXTINF:-1,[RU] Animal Planet
 http://stream.mcquack.net/114/index.m3u8
-#EXTINF:-1,[RU] Food Network ()
+#EXTINF:-1,[RU] O! International
+http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+#EXTINF:-1,[RU] Food Network
 http://stream.mcquack.net/298/index.m3u8
-#EXTINF:-1,[RU] Kuban 24 (480p) [Geo-blocked]
-http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1,[RU] Travel Channel
+http://stream.mcquack.net/231/index.m3u8
