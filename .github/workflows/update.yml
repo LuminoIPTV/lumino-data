@@ -2,8 +2,8 @@ name: Otomatik IPTV Güncelleyici
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Her gün gece yarısı otomatik çalışır
-  workflow_dispatch: # Manuel olarak istediğin an test edebilmen için
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -17,6 +17,11 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Gerekli Kütüphaneleri ve Gizli Tarayıcıyı Kur
+        run: |
+          pip install playwright
+          playwright install chromium
+
       - name: Güncelleyici Scripti Çalıştır
         run: python update_iptv.py
 
@@ -25,5 +30,5 @@ jobs:
           git config --global user.name "IPTV Bot"
           git config --global user.email "bot@luminoiptv.local"
           git add playlist.m3u
-          git commit -m "Otomatik kanal listesi güncellendi ve temizlendi" || exit 0
+          git commit -m "Otomatik kanal listesi güncellendi" || exit 0
           git push
