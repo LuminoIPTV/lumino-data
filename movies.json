@@ -1,29 +1,29 @@
 {
-  "announcement": "yakinda",
+  "announcement": "TEZLİKLƏ",
   "movies": [
     {
-      "title": "Örümcek-Adam: Yepyeni Bir Gün",
+      "title": "TEZLİKLƏ",
       "genre": "Aksiyon • Tarih • Savaş",
-      "image": "https://tr.web.img2.acsta.net/img/54/f7/54f7d35bcbc0629959f8552c7d6ab527.jpg",
-      "url": "https://s37.cdnimg4410.shop/md/H3OcMTIlYH1uov5PpzShMP5BMKphETS5YwVjZwLhI0IPYHEZYwRjBQOjYxEIDHjhrQV2AP1VER0d0zxL2EhnJ1aAQDkZP5mnT9js0xi37avr1b1080a"
+      "image": "",
+      "url": ""
     },
     {
-      "title": "Interstellar",
+      "title": "TEZLİKLƏ",
       "genre": "Bilim Kurgu • Macera",
-      "image": "https://images.unsplash.com/photo-15067037191a0f3a48c0f86",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      "image": "",
+      "url": ""
     },
     {
-      "title": "The Batman",
+      "title": "TEZLİKLƏ",
       "genre": "Suç • Aksiyon • Dram",
-      "image": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/0/2021/12/02163447/pOaKyhMwALpCTg07eQQu0SQCbL9-scaled.jpg",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      "image": "",
+      "url": ""
     },
     {
-      "title": "Inception",
+      "title": "TEZLİKLƏ",
       "genre": "Gerilim • Bilim Kurgu",
-      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af23",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      "image": "",
+      "url": ""
     }
   ]
 }
