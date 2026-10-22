@@ -1,0 +1,30 @@
+name: Otomatik IPTV Güncelleyici
+
+on:
+  schedule:
+    # Her gün Türkiye saati ile gece yarısı (UTC 00:00) çalışır
+    - cron: '0 0 * * *'
+  workflow_dispatch: # İstersen GitHub panelinden tek tıkla el ile de çalıştırabilirsin
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Kopyala
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Güncelleyici Scripti Çalıştır
+        run: python update_iptv.py
+
+      - name: Değişiklikleri Depoya Kaydet
+        run: |
+          git config --global user.name "IPTV Bot"
+          git config --global user.email "bot@github.com"
+          git add channels.m3u
+          git commit -m "Otomatik kanal listesi güncellendi ve temizlendi" || exit 0
+          git push
