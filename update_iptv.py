@@ -10,13 +10,21 @@ SOURCES = {
 }
 
 def clean_channel_name(name):
-    # Kanal adındaki gereksiz ifadeleri temizle
+    # 1. Köşeli parantez, süslü parantez ve normal parantez içindekileri tamamen kaldır: [], {}, ()
+    name = re.sub(r'\[.*?\]|\{.*?\}|\(.*?\)', '', name)
+    
+    # 2. Kaldırılacak kelimeler ve çözünürlük kalıpları (Büyük/küçük harf duyarsız)
     patterns = [
-        r'\b1080p\b', r'\b720p\b', r'\b4K\b', r'\bHD\b', r'\bSD\b', 
-        r'\b7/24\b', r'\|', r'\bHEVC\b', r'\bFHD\b'
+        r'\b1440p\b', r'\b1080p\b', r'\b720p\b', r'\b576p\b', r'\b480p\b', 
+        r'\b4K\b', r'\bHD\b', r'\bSD\b', r'\bFHD\b', r'\bHEVC\b',
+        r'\b7/24\b', r'\bGeo\s*Blocked\b', r'\bNot\b', r'\|'
     ]
+    
     for pattern in patterns:
         name = re.sub(pattern, '', name, flags=re.IGNORECASE)
+        
+    # 3. Kalan fazlalık tire, nokta veya boşlukları düzenle
+    name = re.sub(r'\s*-\s*', ' - ', name) # Tire etrafındaki boşlukları dengele
     return ' '.join(name.split())
 
 def test_link(url):
@@ -83,7 +91,7 @@ def main():
             f.write(f'#EXTINF:-1,{name}\n')
             f.write(f'{url}\n')
 
-    print("playlist.m3u başarıyla oluşturuldu!")
+    print("playlist.m3u başarıyla güncellendi!")
 
 if __name__ == "__main__":
     main()
