@@ -1,123 +1,99 @@
+import urllib.request
 import re
-import time
-from playwright.sync_api import sync_playwright
 
-# Avtomatik link çəkiləcək saytların siyahısı
-# Format: ("Sayt Linki", "Kanal Adı", "Ölkə Kodu")
-TARGET_SITES = [
-    ("https://tv.canlitvvolo.com/cbc-sport-az-izle/", "CBC Sport", "AZ"),
-    # Başqa kanalları buraya əlavə edə bilərsən:
-    # ("https://tv.canlitvvolo.com/ictimai-tv-izle/", "İctimai TV", "AZ"),
-    # ("https://tv.canlitvvolo.com/xezer-tv-canli-izle/", "Xəzər TV", "AZ"),
+# Botun internet istekleri için kullandığı tarayıcı kimliği
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+}
+
+# 1. Aramak istediğimiz Master Liste (Senin istediğin sıra ve büyük harf standartlarında)
+MASTER_CHANNELS = [
+    # AZERBAYCAN
+    "[AZ] CBC TV AZERBAYCAN", "[AZ] CBC SPORT", "[AZ] İCTİMAİ TV", "[AZ] AZTV", 
+    "[AZ] XƏZƏR TV", "[AZ] ATV AZERBAYCAN", "[AZ] SPACE TV", "[AZ] ARB TV", 
+    "[AZ] ARB SPOR", "[AZ] ARB GÜNƏŞ", "[AZ] REAL TV", "[AZ] BAKU TV", 
+    "[AZ] İDMAN TV", "[AZ] MİDİYA TV", "[AZ] BOZBASH PICTURES TV", "[AZ] CTV AZ", 
+    "[AZ] CTV SİNEMA", "[AZ] CTV YERLİ", "[AZ] CTV MUSİC", "[AZ] ALVİN CHANNEL TV MİNGƏÇEVİR", 
+    "[AZ] QAFQAZ TV", "[AZ] APA TV", "[AZ] KÖNÜL TV", "[AZ] 106.3 FM", "[AZ] TTV", 
+    "[AZ] SHOWPLUS TV", "[AZ] KANAL S2 AZ", "[AZ] AZ STAR TV", "[AZ] LİVE TV AZ", 
+    "[AZ] AL ZAHRA TV", "[AZ] QARABAQ TV", "[AZ] AZAD SÖZ TV", "[AZ] PAPARAZİ MÜZİK", 
+    "[AZ] TMB AZ", "[AZ] SON ÜMİD TV", "[AZ] KANAL ON4", "[AZ] AGRO TV AZERBAYCAN", 
+    "[AZ] LİVE TV", "[AZ] KÖNÜL TV 2", "[AZ] QAFQAZ TV 2", "[AZ] VOSTOK TV", 
+    "[AZ] KƏPƏZ TV GƏNCƏ", "[AZ] KANAL 35 NAXÇIVAN", "[AZ] NAXÇIVAN TV", "[AZ] AN.T", "[AZ] AZNEWS TV",
+
+    # TÜRKIYE
+    "[TR] TRT 1", "[TR] TRT 2", "[TR] TRT 3 TBMM", "[TR] TRT HABER", "[TR] TRT SPOR", 
+    "[TR] TRT SPOR YILDIZ", "[TR] TRT ÇOCUK", "[TR] TRT BELGESEL", "[TR] TRT MÜZİK", 
+    "[TR] TRT AVAZ", "[TR] TRT TÜRK", "[TR] TRT KURDİ", "[TR] TRT ARABİ", "[TR] SHOW TV", 
+    "[TR] SHOW MAX", "[TR] SHOW TÜRK", "[TR] ATV", "[TR] ATV TÜRKİYE", "[TR] A HABER", 
+    "[TR] A SPOR", "[TR] A PARA", "[TR] A TARİH", "[TR] STAR TV", "[TR] STAR TV 2", 
+    "[TR] KANAL D", "[TR] EURO D", "[TR] CNN TÜRK", "[TR] TV8", "[TR] TV8 BUÇUK", 
+    "[TR] TV 8 İNT", "[TR] FOX TV / NOW TV", "[TR] FOX TÜRK", "[TR] KANAL 7", 
+    "[TR] KANAL 7 AVRUPA", "[TR] ÜLKE TV", "[TR] 24 TV", "[TR] HABERTÜRK", "[TR] BLOOMBERG HT", 
+    "[TR] HABER GLOBAL", "[TR] TGRT HABER", "[TR] TGRT BELGESEL", "[TR] TGRT EU", "[TR] BEYAZ TV", 
+    "[TR] A9 TV", "[TR] TVNET", "[TR] EGE TV", "[TR] KONTV", "[TR] KADIRGA TV", 
+    "[TR] OLAY TV BURSA", "[TR] TEVE 2", "[TR] DMAX TR", "[TR] TLC TÜRK", "[TR] TMB", 
+    "[TR] KRAL TV", "[TR] KRAL POP", "[TR] TATLISES TV", "[TR] NUMBER ONE TV", "[TR] POWER TÜRK", 
+    "[TR] DREAM TÜRK", "[TR] FB TV", "[TR] GS TV", "[TR] BJK TV", "[TR] S SPORT 1", "[TR] S SPORT 2",
+    "[TR] HALK TV", "[TR] TELE 1", "[TR] KRT TV", "[TR] SÖZCÜ TV",
+
+    # RUSYA EN ÇOK İZLENENLER
+    "[RU] PERVIY KANAL", "[RU] ROSSIYA 1", "[RU] NTV", "[RU] MATCH TV", "[RU] STS", 
+    "[RU] TNT", "[RU] REN TV", "[RU] DOMASHNIY", "[RU] PYATNITSA", "[RU] TV 3", 
+    "[RU] ZVEZDA", "[RU] ROSSIYA 24", "[RU] 5 KANAL", "[RU] TV TSENTR", "[RU] MIR", 
+    "[RU] MUZ TV", "[RU] RU TV", "[RU] KINOPOKAZ", "[RU] TV1000 RUSSKOE KINO", "[RU] TV1000 ACTION"
 ]
 
-def clean_channel_name(name):
-    # Parantez içindəki hər şeyi təmizlə: [], {}, ()
+# 2. Canlı linklerin taranacağı güvenli açık kaynak havuzları
+SOURCE_LISTS = [
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u"
+]
+
+def clean_name(name):
     name = re.sub(r'\[.*?\]|\{.*?\}|\(.*?\)', '', name)
-    
-    # Lazımsız sözləri və çözünürlükləri təmizlə
-    patterns = [
-        r'\b1440p\b', r'\b1080p\b', r'\b720p\b', r'\b576p\b', r'\b480p\b', 
-        r'\b4K\b', r'\bHD\b', r'\bSD\b', r'\bFHD\b', r'\bHEVC\b',
-        r'\b7/24\b', r'\bGeo\s*Blocked\b', r'\bNot\b', r'\|',
-        r'\bcanlı\b', r'\bizle\b', r'\bcanli\b', r'\btv\b'
-    ]
-    for pattern in patterns:
-        name = re.sub(pattern, '', name, flags=re.IGNORECASE)
-        
-    name = re.sub(r'\s*-\s*', ' ', name)
-    return ' '.join(name.split()).strip().title()
-
-def capture_stream_from_site(page, url):
-    captured_links = []
-
-    # Şəbəkə trafikini (Network) izləyən funksiya (API və M3U8 tutucu)
-    def handle_response(response):
-        req_url = response.url
-        # Həm birbaşa m3u8 linklərini, həm də axın ehtiva edən API sorğularını yoxla
-        if ".m3u8" in req_url or "stream" in req_url or "playlist" in req_url:
-            if not req_url.endswith(".ts") and req_url not in captured_links:
-                # Əgər cavab JSON formatındadırsa, içindəki linki oxumağa çalış
-                try:
-                    if "application/json" in response.headers.get("content-type", ""):
-                        data = response.json()
-                        # JSON içində link ola biləcək açarları yoxla
-                        for key in ["url", "stream", "file", "link", "src"]:
-                            if key in data and isinstance(data[key], str) and ".m3u8" in data[key]:
-                                if data[key] not in captured_links:
-                                    captured_links.append(data[key])
-                except:
-                    pass
-                
-                # Əgər birbaşa m3u8 linkidirsə əlavə et
-                if ".m3u8" in req_url and req_url not in captured_links:
-                    captured_links.append(req_url)
-
-    page.on("response", handle_response)
-
-    try:
-        # Sayta real brauzer kimi daxil ol
-        page.goto(url, wait_until="networkidle", timeout=20000)
-        # Pleyerin tam yüklənməsi və API sorğularının işə düşməsi üçün qısa gözləmə
-        page.wait_for_timeout(6000)
-        
-        # Əgər şəbəkədən birbaşa tutulmadısa, səhifənin mənbə kodunu skan et
-        if not captured_links:
-            content = page.content()
-            matches = re.findall(r'https?://[^\s"\'<>]+?\.m3u8[^\s"\'<>]*', content)
-            for m in matches:
-                clean_m = m.replace('\\/', '/')
-                if clean_m not in captured_links:
-                    captured_links.append(clean_m)
-                    
-    except Exception as e:
-        print(f"Xəta baş verdi ({url}): {e}")
-
-    page.remove_listener("response", handle_response)
-    return captured_links[0] if captured_links else None
+    patterns = [r'\b1080p\b', r'\b720p\b', r'\b4K\b', r'\bHD\b', r'\bSD\b', r'\bFHD\b', r'\|']
+    for p in patterns:
+        name = re.sub(p, '', name, flags=re.IGNORECASE)
+    return ' '.join(name.split()).upper()
 
 def main():
-    valid_channels = []
+    found_channels = {}
 
-    with sync_playwright() as p:
-        # Sayt tərəfindən bot kimi tanınmamaq üçün gizli brauzer konfiqurasiyası
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-            viewport={"width": 1366, "height": 768}
-        )
-        page = context.new_page()
+    # Açık kaynaklardan mevcut aktif linkleri çek ve sözlüğe kaydet
+    for url in SOURCE_LISTS:
+        try:
+            req = urllib.request.Request(url, headers=HEADERS)
+            with urllib.request.urlopen(req, timeout=10) as response:
+                content = response.read().decode('utf-8', errors='ignore')
+                lines = content.splitlines()
+                current_name = ""
+                for line in lines:
+                    if line.startswith("#EXTINF:"):
+                        match = re.search(r',(.+)$', line)
+                        if match:
+                            current_name = clean_name(match.group(1))
+                    elif line.startswith("http") and current_name:
+                        found_channels[current_name] = line.strip()
+                        current_name = ""
+        except Exception as e:
+            print(f"Kaynak okunamadı ({url}): {e}")
 
-        print(f"Ümumi {len(TARGET_SITES)} sayt taranır...")
-        
-        for site_url, raw_name, code in TARGET_SITES:
-            clean_name = clean_channel_name(raw_name)
-            if not clean_name:
-                clean_name = "Kanal"
-            
-            print(f"Yoxlanılır: [{code}] {clean_name} -> {site_url}")
-            stream_url = capture_stream_from_site(page, site_url)
-            
-            if stream_url:
-                print(f"  [+] Uğurlu! Link tapıldı: {stream_url}")
-                final_name = f"[{code}] {clean_name}"
-                valid_channels.append((final_name, stream_url, site_url))
-            else:
-                print(f"  [-] Link tapılmadı: {site_url}")
-
-            time.sleep(2) # Sayt serverini yormamaq üçün təbii fasilə
-
-        browser.close()
-
-    # Köhnə siyahını tamamilə təmizləyib ("w" rejimi) tapılan yenilərini yazırıq
+    # 3. Master listeyi tara, bulunanları eşleştir, bulunamayanlara [LINK_BURAYA] yaz
     with open("playlist.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        for name, stream_url, ref_url in valid_channels:
-            f.write(f'#EXTINF:-1,{name}\n')
-            f.write(f'#EXTVLCOPT:http-referrer={ref_url}\n')
-            f.write(f'{stream_url}\n')
+        for master_item in MASTER_CHANNELS:
+            # Örn: "[AZ] CBC SPORT" -> ismini ayıkla: "CBC SPORT"
+            clean_lookup_name = clean_name(master_item.split(']', 1)[1])
+            
+            # Eğer havuzda bu kanalın çalışan linki varsa onu yaz, yoksa [LINK_BURAYA] bırak
+            stream_link = found_channels.get(clean_lookup_name, "[LINK_BURAYA]")
+            
+            f.write(f"#EXTINF:-1,{master_item}\n")
+            f.write(f"{stream_link}\n")
 
-    print(f"Proses tamamlandı! {len(valid_channels)} kanal playlist.m3u faylına yazıldı.")
+    print("İşlem tamamlandı! playlist.m3u dosyası güncellendi.")
 
 if __name__ == "__main__":
     main()
