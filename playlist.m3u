@@ -13,5 +13,7 @@ http://stream.apa.tv/apastream/index.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,[AZ] AZ TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[AZ] AZ TV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[AZ] BAKU TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1,[AZ] BAKU TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
