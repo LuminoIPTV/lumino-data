@@ -15,5 +15,7 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/mai
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[AZ] BAKU TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1,[AZ] BAKU TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1,[AZ] EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1,[AZ] EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
