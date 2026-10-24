@@ -11,5 +11,7 @@ https://nl.livekadeh.com/hls2/vilayet.m3u8
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1,[AZ] AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1,[AZ] AYAZ TV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1,[AZ] AZ TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[AZ] AZ TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
