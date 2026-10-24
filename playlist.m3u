@@ -19,3 +19,9 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1,[AZ] KANAL S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1,[AZ] KEPEZ TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1,[AZ] KN MUSIC TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[AZ] KN MUSIC TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
