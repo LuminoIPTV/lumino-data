@@ -17,5 +17,5 @@ https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1,[AZ] EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1,[AZ] EL TV
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1,[AZ] KANAL S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
