@@ -7,5 +7,5 @@ https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1,[AZ] VILAYET TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1,[AZ] VILAYET TV
-https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1,[AZ] APA TV
+http://stream.apa.tv/apastream/index.m3u8
