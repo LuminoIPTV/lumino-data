@@ -23,5 +23,22 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1,[AZ] KN MUSIC TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[AZ] XEZER TV
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1,[AZ] VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
+#EXTINF:-1,[AZ] TV 1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+#EXTINF:-1,[AZ] ATV Cinema
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VWEZURYBP84BSH/2120/index.m3u8
+#EXTINF:-1,[AZ] SHOW PLUS 
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1,[AZ] TV B
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+#EXTINF:-1,[AZ] GUN AZ TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1,[AZ] LIVE TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,[AZ] KONUL MUSIC 
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+#EXTINF:-1,[AZ] F TV
+https://stream.ftv.az/live/ftv.m3u8
+
